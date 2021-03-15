@@ -1,0 +1,6 @@
+p : 10
+l : 15
+
+luas_persegi : p * l
+print(luas_persegi)
+#coba program baru di file kedua
